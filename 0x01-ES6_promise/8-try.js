@@ -1,9 +1,7 @@
-export default function guardrail(mathFunction) {
-  const queue = [];
-  try {
-    queue.push(mathFunction(), 'Guardrail was processed');
-  } catch (err) {
-    queue.push(`Error: ${err.message}`, 'Guardrail was processed');
+export default function divideFunction(numerator, denominator) {
+  if (denominator === 0) {
+    throw Error('cannot divide by 0');
+  } else {
+    return numerator / denominator;
   }
-  return queue;
 }
