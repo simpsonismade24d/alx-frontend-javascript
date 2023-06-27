@@ -8,6 +8,4 @@ A README.md file, at the root of the folder of the project, is mandatory
 Your code should use the js extension
 Your code will be tested using Jest and the command npm run test
 Your code will be verified against lint using ESLint
-All of your functions must be exported[A[A[A[A[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
-[A[C[C[C[C[C[C[C[C[C[C[C[C
-[B[B[B[B[B[B[B[B[B[B[B[B[A[A[A[A
+All of your functions must be exported.
