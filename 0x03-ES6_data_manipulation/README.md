@@ -1,12 +1,15 @@
 0x03. ES6 data manipulation
 
+![Arrzy Everywhere](https://github.com/simpsonismade24d/alx-frontend-javascript/assets/111156398/9155d93e-99da-4fab-8898-771cabc1daec)
+
+
 Resources
 
 1. [Array](https://intranet.alxswe.com/rltoken/KDAVab6oKKsFBXJc2-ll-A)
-2. https://intranet.alxswe.com/rltoken/kpoPupbBdDmukQkcKlvwnw
-3. https://intranet.alxswe.com/rltoken/C8x3dhHo0p3uE7S9-EyP9Q
-4. https://intranet.alxswe.com/rltoken/XR-ql9v9-PWcXnvTc749gw
-5. https://intranet.alxswe.com/rltoken/NEy8fk2QRytajR8hgXkCog
+2. [Typed Array](https://intranet.alxswe.com/rltoken/kpoPupbBdDmukQkcKlvwnw)
+3. [Set data structure](https://intranet.alxswe.com/rltoken/C8x3dhHo0p3uE7S9-EyP9Q)
+4. [Map data structure](https://intranet.alxswe.com/rltoken/XR-ql9v9-PWcXnvTc749gw)
+5. [weak-map](https://intranet.alxswe.com/rltoken/NEy8fk2QRytajR8hgXkCog)
 
 
 Requirements
