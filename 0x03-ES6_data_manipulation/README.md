@@ -2,7 +2,7 @@
 
 Resources
 
-1. https://intranet.alxswe.com/rltoken/KDAVab6oKKsFBXJc2-ll-A
+1. [Array](https://intranet.alxswe.com/rltoken/KDAVab6oKKsFBXJc2-ll-A)
 2. https://intranet.alxswe.com/rltoken/kpoPupbBdDmukQkcKlvwnw
 3. https://intranet.alxswe.com/rltoken/C8x3dhHo0p3uE7S9-EyP9Q
 4. https://intranet.alxswe.com/rltoken/XR-ql9v9-PWcXnvTc749gw
