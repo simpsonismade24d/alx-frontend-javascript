@@ -5,7 +5,9 @@
 
 
 RESOURCES
+
 . [TypeScript in 5 minutes](https://intranet.alxswe.com/rltoken/iRzgJkkaCRQdVlrERbY1Og)
+
 . [TypeScript documentation](https://intranet.alxswe.com/rltoken/U2ehqajGPvrABFnDyF0tvQ)
 
 
