@@ -1,11 +1,11 @@
 0x04. Typescript
 
-C:\Users\USER\Desktop\js-today.png
+![js-today](https://github.com/simpsonismade24d/alx-frontend-javascript/assets/111156398/0e5dba54-4e6c-4dbc-8750-a4df95f7eeef)
+
 
 
 RESOURCES
-
-. [ ][DTypeScript in 5 minutes[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C]()[D )[D[Dhttps://intranet.alxswe.com/rltoken/iRzgJkkaCRQdVlrERbY1Og)
+. [TypeScript in 5 minutes](https://intranet.alxswe.com/rltoken/iRzgJkkaCRQdVlrERbY1Og)
 . [TypeScript documentation](https://intranet.alxswe.com/rltoken/U2ehqajGPvrABFnDyF0tvQ)
 
 
